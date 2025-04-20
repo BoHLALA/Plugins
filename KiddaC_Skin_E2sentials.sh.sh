@@ -3,14 +3,14 @@
 # ==============================================
 # SCRIPT : DOWNLOAD AND INSTALL xstreamity #
 # =====================================================================================================================
-# Command: wget https://raw.githubusercontent.com/BoHLALA/Script/K.S.A/KiddaC_Skin_E2sentials.sh -O - | /bin/sh #
+# Command: wget https://raw.githubusercontent.com/BoHLALA/Plugins/K.S.A/KiddaC_Skin_E2sentials.sh -O - | /bin/sh #
 # =====================================================================================================================
 
 ########################################################################################################################
 # Plugin	... Enter Manually
 ########################################################################################################################
 
-PACKAGE_DIR='Script/K.S.A'
+PACKAGE_DIR='Plugins/K.S.A'
 
 MY_FILE="byBO-HLALA_KiddaC-Skin-E2sentials.tar.gz"
 
