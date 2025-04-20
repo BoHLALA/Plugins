@@ -20,7 +20,7 @@ MY_FILE="byBO-HLALA_KiddaC-Skin-E2sentials.tar.gz"
 
 # Decide : which package ?
 MY_MAIN_URL="https://raw.githubusercontent.com/BoHLALA/"
-if which dpkg > /dev/null 2>&1; then
+if which .tar.gz > /dev/null 2>&1; then
 	MY_FILE=$MY_DEB
 	MY_URL=$MY_MAIN_URL$PACKAGE_DIR'/'$MY_DEB
 else
